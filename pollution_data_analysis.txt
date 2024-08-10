@@ -1,0 +1,38 @@
+Analyse des Données de Pollution
+
+1. Indice de Qualité de l’Air (AQI) :
+
+	•	L’AQI reste principalement dans les catégories 3 (modéré) et 4 (mauvais) pendant la majorité du temps.
+	•	Cependant, le 2 août, entre 14h00 et 17h00, il atteint un niveau de 5, ce qui indique une qualité de l’air très mauvaise.
+	•	Le pic le plus élevé de l’AQI est observé le 2 août à 15h00 avec un AQI de 210.24.
+
+2. Particules fines (PM2.5) et grosses particules (PM10) :
+
+	•	Les PM2.5 varient de 12.43 µg/m³ à 210.24 µg/m³, avec des pics importants le 2 août, en particulier dans l’après-midi.
+	•	Les PM10 suivent une tendance similaire avec des valeurs maximales atteignant 322.84 µg/m³ le 2 août à 15h00.
+
+3. Ozone (O3) :
+
+	•	Les niveaux d’ozone sont généralement élevés le matin et diminuent progressivement au cours de la journée.
+	•	Le 2 août voit un pic significatif à 15h00 avec 217.44 µg/m³, indiquant une mauvaise qualité de l’air due à l’ozone.
+
+4. Dioxyde d’azote (NO2) :
+
+	•	Les niveaux de NO2 varient entre 7.88 µg/m³ et 115.16 µg/m³.
+	•	Les concentrations de NO2 augmentent généralement en début de journée et diminuent après le milieu de la journée.
+
+5. Dioxyde de soufre (SO2) :
+
+	•	Les niveaux de SO2 restent relativement faibles, mais augmentent le 2 août avec un pic de 48.16 µg/m³ à 13h00.
+
+6. Monoxyde de carbone (CO) :
+
+	•	Le monoxyde de carbone atteint ses niveaux les plus élevés le 2 août, avec un maximum de 2056.12 µg/m³ à 14h00.
+
+Tendances Générales :
+
+	•	Le 2 août est clairement une journée où les niveaux de pollution sont les plus élevés, en particulier dans l’après-midi.
+	•	Les concentrations de PM2.5, PM10, et CO sont particulièrement préoccupantes, atteignant des niveaux très élevés, ce qui indique une mauvaise qualité de l’air.
+	•	Les niveaux de NO2 et SO2 sont également élevés, ce qui peut contribuer à des problèmes de santé respiratoires, en particulier chez les personnes sensibles.
+
+Cette analyse montre que le 2 août est une journée particulièrement préoccupante en termes de qualité de l’air à Tananarive, avec plusieurs polluants atteignant des niveaux dangereux. Il serait recommandé de limiter les activités extérieures pendant les périodes de pic de pollution.
